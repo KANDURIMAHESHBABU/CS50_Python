@@ -5,7 +5,7 @@ from colorama import Fore, Style
 import pyfiglet
 
 #Banner
-print(pyfiglet.figlet_format("CS50 @sahinyes\nFinal Project", font= "digital"))
+print(pyfiglet.figlet_format("CS50 @KANDURIMAHESHBABU\nFinal Project", font= "digital"))
 print(f"{Fore.YELLOW}python ./project.py\npython ./project.py -u <url>\npython ./project.py --url <url>\n{Style.RESET_ALL}")
 
 def main():
